@@ -4,8 +4,6 @@
 
 #Importing the necessary libaries/classes
 
-import numpy as np 
-from textblob import TextBlob as tb
 from textblob.classifiers import NaiveBayesClassifier
 import fileread
 from  nltk.corpus import stopwords 
