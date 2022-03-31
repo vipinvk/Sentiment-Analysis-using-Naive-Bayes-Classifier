@@ -2,7 +2,7 @@
 ### Vipin VK
 ### Python 3.8.10 (64-bit) 
 
-#Importing the necessary libaries/classes
+#Importing the necessary libaries/files
 
 from textblob.classifiers import NaiveBayesClassifier
 import fileread
